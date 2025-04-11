@@ -5,7 +5,7 @@ This repository contains all relevant materials for the TIØ4317 project assignm
 
 `TIØ4317_project_assignment.ipynb` – Full project report
 
-`TIØ4317 Project Assignment.mp4` – Video presentation of the project
+`TIØ4317 Project Assignment.mp4.zip` – Video presentation of the project
 
 `data/` – Datasets
 
